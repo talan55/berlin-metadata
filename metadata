@@ -1,13 +1,14 @@
 {
   "name": "BERLIN",
   "symbol": "BRL",
-  "description": "BERLIN token - 100.000.000 supply",
-  "image": "https://drive.google.com/uc?export=download&id=12dSlkByoW1YjTmmpWR4KciyOGQz379Rf",
+  "description": "BERLIN Token - Total Supply: 100,000,000 BRL",
+  "image": "https://raw.githubusercontent.com/KULLANICI/REPO/main/logo.png",
   "external_url": "",
   "properties": {
+    "category": "token",
     "files": [
       {
-        "uri": "https://drive.google.com/file/d/1TF0khdtwJmgIPfV4mHGPRZLGvg_7GAce/view?usp=sharing",
+        "uri": "https://raw.githubusercontent.com/KULLANICI/REPO/main/logo.png",
         "type": "image/png"
       }
     ]
