@@ -2,7 +2,7 @@
   "name": "BERLIN",
   "symbol": "BRL",
   "description": "BERLIN - Official Solana SPL token. Total supply: 100,000,000 BRL",
-  "image": "https://gateway.irys.xyz/HHSdumDUN6AVZmBKkegZEf5L1q5Ko1xmxsZqnAcX3nDj",
+  "image": "https://raw.githubusercontent.com/talan55/berlin-metadata/main/berlin_logo.png",
   "external_url": "https://berlintoken.io",
   "attributes": [
     {
@@ -18,9 +18,10 @@
     "category": "token",
     "files": [
       {
-        "uri": "https://gateway.irys.xyz/HHSdumDUN6AVZmBKkegZEf5L1q5Ko1xmxsZqnAcX3nDj",
+        "uri": "https://raw.githubusercontent.com/talan55/berlin-metadata/main/metadata.json",
         "type": "image/png"
       }
     ]
   }
 }
+
