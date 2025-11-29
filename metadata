@@ -1,0 +1,15 @@
+{
+  "name": "BERLIN",
+  "symbol": "BRL",
+  "description": "BERLIN token - 100.000.000 supply",
+  "image": "https://drive.google.com/uc?export=download&id=12dSlkByoW1YjTmmpWR4KciyOGQz379Rf",
+  "external_url": "",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://drive.google.com/file/d/1TF0khdtwJmgIPfV4mHGPRZLGvg_7GAce/view?usp=sharing",
+        "type": "image/png"
+      }
+    ]
+  }
+}
